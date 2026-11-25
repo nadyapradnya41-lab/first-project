@@ -37,7 +37,7 @@ function buyNow() {
   <div>
     <div id="product">
             <header>
-                <h1>Electronic Store</h1>
+                <h1>Jeya Store</h1>
                 <p>Cart({{ data.cart }})</p> 
             </header>
             <div class="product">
